@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaoPhapLuat/BaoPhapLuat.iml" filepath="$PROJECT_DIR$/BaoPhapLuat/BaoPhapLuat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VozScraper.iml" filepath="$PROJECT_DIR$/VozScraper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordSimilar/WordSimilar.iml" filepath="$PROJECT_DIR$/WordSimilar/WordSimilar.iml" />
+    </modules>
+  </component>
+</project>
